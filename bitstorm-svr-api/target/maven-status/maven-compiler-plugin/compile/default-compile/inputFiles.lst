@@ -1,0 +1,8 @@
+/Users/gupeng/code/camps/bitstorm-java-project/bitstorm-svr-api/src/main/java/cn/bitoffer/api/dto/xtimer/TimerDTO.java
+/Users/gupeng/code/camps/bitstorm-java-project/bitstorm-svr-api/src/main/java/cn/bitoffer/api/feign/interceptor/ContextFeignInterceptor.java
+/Users/gupeng/code/camps/bitstorm-java-project/bitstorm-svr-api/src/main/java/cn/bitoffer/api/feign/DemoClient.java
+/Users/gupeng/code/camps/bitstorm-java-project/bitstorm-svr-api/src/main/java/cn/bitoffer/api/dto/xtimer/NotifyHTTPParam.java
+/Users/gupeng/code/camps/bitstorm-java-project/bitstorm-svr-api/src/main/java/cn/bitoffer/api/feign/TestSeckillClient.java
+/Users/gupeng/code/camps/bitstorm-java-project/bitstorm-svr-api/src/main/java/cn/bitoffer/api/feign/LotteryClient.java
+/Users/gupeng/code/camps/bitstorm-java-project/bitstorm-svr-api/src/main/java/cn/bitoffer/api/dto/xtimer/LotteryParam.java
+/Users/gupeng/code/camps/bitstorm-java-project/bitstorm-svr-api/src/main/java/cn/bitoffer/api/feign/XTimerClient.java
